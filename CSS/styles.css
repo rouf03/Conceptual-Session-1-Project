@@ -46,6 +46,9 @@
     height: 100vh;
     background-image: url(../images/background.png), linear-gradient(45deg,#292323, #000);
     color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .tittle {
